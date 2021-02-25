@@ -1,5 +1,5 @@
 六大设计原则
-1.单一原则（Single Responsibility Principle）：
+1.单一职责原则（Single Responsibility Principle）：
 定义：应该有且只有一个原因引起类的变更。
 优点：
     a.类复杂性降低；
@@ -51,6 +51,7 @@
 5.迪米特法则（Law of Demeter） 最少知识原则（Least Knowledge Principle）
 定义：一个对象应该对其他对象有最少的了解。
 核心观念：类间解耦，弱耦合。
+
 
 6.开闭原则（Open Closed Principle）
 定义：一个软件实体如类、模块和函数应该对扩展开放，对修改关闭。
